@@ -61,7 +61,7 @@ My personal developer portfolio showcasing my skills, projects and experience.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [[](](https://www.linkedin.com/in/md-zihad-hasan-246256217/))]
+- LinkedIn: https://www.linkedin.com/in/md-zihad-hasan-246256217
 - GitHub: [@zihadhasan](https://github.com/zihadhasan)
 
 ---
