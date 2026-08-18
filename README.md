@@ -12,7 +12,7 @@ I'm a passionate MERN Stack Developer focused on building modern, responsive, an
 
 ---
 
-## 🛠️ Technologies & Tools
+**## 🛠️ Technologies & Tools
 
 ### Frontend
 - React.js
@@ -40,7 +40,7 @@ I'm a passionate MERN Stack Developer focused on building modern, responsive, an
 - Vercel
 - Render
 
----
+---**
 
 ## 🚀 Featured Projects
 
